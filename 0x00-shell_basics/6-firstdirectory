@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir --parents my_first_directory tmp
+mkdir --parents /tmp my_first_directory
